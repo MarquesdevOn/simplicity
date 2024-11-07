@@ -1,2 +1,2 @@
 # simplicity
-Atividades de estudos de HTML e CSS
+ Site criado como exemplo para o uso de HTML, CSS e JS
